@@ -29,8 +29,11 @@ To install the necessary dependencies, run the following command:
 **This app requires the following dependencies**:
 
 **dotenv** - to load environment variables from a .env file
+
 **express** - to handle server and routing logic
+
 **mysql2** - to connect to MySQL database
+
 **sequelize** - to interact with the MySQL database using object-relational mapping
 
 
