@@ -6,7 +6,7 @@
 
 This is a retail e-commerce app for clothes and shoes, where users can browse and purchase products from various categories.
 
-**Table of Contents
+**Table of Contents**
 
 **Installation
 
