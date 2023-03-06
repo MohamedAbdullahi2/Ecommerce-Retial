@@ -23,7 +23,9 @@ This is a retail e-commerce app for clothes and shoes, where users can browse an
 ## Technology Used
 
 Javascript 
+
 MySQL 
+
 Node Js 
 
 ## Installation
