@@ -24,7 +24,7 @@ This is a retail e-commerce app for clothes and shoes, where users can browse an
 
 To install the necessary dependencies, run the following command:
 
-**pm install**
+**npm install**
 
 **This app requires the following dependencies**:
 
