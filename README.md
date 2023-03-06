@@ -6,7 +6,7 @@
 
 This is a retail e-commerce app for clothes and shoes, where users can browse and purchase products from various categories.
 
-## Table of Contents**
+## Table of Contents
 
 **Technology User**
 
@@ -49,7 +49,7 @@ To install the necessary dependencies, run the following command:
 
 To start the application, run the following command:
 
-**npm start
+**npm start**
 
 This will start the server and make it available on http://localhost:3001.
 
@@ -95,7 +95,7 @@ DELETE /api/tags/:id - Deletes a tag with the specified ID.
 
 To run tests, run the following command:
 
-**npm test
+**npm test**
 
 
 ## License
