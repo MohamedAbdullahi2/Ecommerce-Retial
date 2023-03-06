@@ -8,6 +8,8 @@ This is a retail e-commerce app for clothes and shoes, where users can browse an
 
 ## Table of Contents**
 
+**Technology User**
+
 **Installation**
 
 **Usage**
@@ -18,7 +20,11 @@ This is a retail e-commerce app for clothes and shoes, where users can browse an
 
 **License**
 
+## Technology Used
 
+Javascript 
+MySQL 
+Node Js 
 
 ## Installation
 
@@ -47,36 +53,41 @@ This will start the server and make it available on http://localhost:3001.
 
 ## Routes
 
-GET /api/products - get all products
+**Products**
 
-GET /api/products/:id - get a single product by id
+GET /api/products - Returns a list of all products in the database.
 
-POST /api/products - create a new product
+GET /api/products/:id - Returns a single product with the specified ID.
 
-PUT /api/products/:id - update a product by id
+POST /api/products - Adds a new product to the database.
 
-DELETE /api/products/:id - delete a product by id
+PUT /api/products/:id - Updates a product with the specified ID.
 
-GET /api/categories - get all categories
+DELETE /api/products/:id - Deletes a product with the specified ID.
 
-GET /api/categories/:id - get a single category by id
+**Categories**
 
-POST /api/categories - create a new category
+GET /api/categories - Returns a list of all categories in the database.
 
-PUT /api/categories/:id - update a category by id
+GET /api/categories/:id - Returns a single category with the specified ID.
 
-DELETE /api/categories/:id - delete a category by id
+POST /api/categories - Adds a new category to the database.
 
-GET /api/tags - get all tags
+PUT /api/categories/:id - Updates a category with the specified ID.
 
-GET /api/tags/:id - get a single tag by id
+DELETE /api/categories/:id - Deletes a category with the specified ID.
 
-POST /api/tags - create a new tag
+**Tags**
 
-PUT /api/tags/:id - update a tag by id
+GET /api/tags - Returns a list of all tags in the database.
 
-DELETE /api/tags/:id - delete a tag by id
+GET /api/tags/:id - Returns a single tag with the specified ID.
 
+POST /api/tags - Adds a new tag to the database.
+
+PUT /api/tags/:id - Updates a tag with the specified ID.
+
+DELETE /api/tags/:id - Deletes a tag with the specified ID.
 
 ## Tests
 
