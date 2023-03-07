@@ -15,6 +15,11 @@ const categoryData = [
   },
   {
     category_name: 'Shoes',
+    
+  },
+  {
+    category_name: 'pants',
+    
   },
 ];
 
