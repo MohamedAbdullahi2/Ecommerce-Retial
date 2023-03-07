@@ -22,7 +22,9 @@ const tagData = [
   {
     tag_name: 'gold',
   },
-
+  {
+    tag_name: 'pop culture',
+  },
 ];
 
 const seedTags = () => Tag.bulkCreate(tagData);
