@@ -4,7 +4,7 @@
 
 ## Description of the project
 
-This project involves the development of a retail e-commerce application for a store. The application's back end architecture is expected to comprise a server, a database, and a suite of APIs that enable seamless communication between the server, database, and the application's front-end. The application will offer users a wide variety of product categories to browse and purchase from.  To watch a walkthrough video, click [here](https://www.veed.io/edit/90be6f07-3646-4a91-894c-29785cf826ec/video).
+This project involves the development of a retail e-commerce application for a store. The application's back end architecture is expected to comprise a server, a database, and a suite of APIs that enable seamless communication between the server, database, and the application's front-end. The application will offer users a wide variety of product categories to browse and purchase from.  To watch a walkthrough video, click [here](https://www.veed.io/view/90be6f07-3646-4a91-894c-29785cf826ec?panel=share).
 
 ## Table of Contents
 
