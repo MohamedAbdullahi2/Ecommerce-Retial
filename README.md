@@ -47,7 +47,11 @@ To install the necessary dependencies, run the following command:
 
 ## Usage
 
-To start the application, run the following command:
+**Git clone** 
+
+https://github.com/MohamedAbdullahi2/Ecommerce-Retial.git
+
+then start the application, run the following command:
 
 **npm start**
 
